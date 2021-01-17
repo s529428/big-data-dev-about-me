@@ -7,4 +7,5 @@ I hale from Lee's Summit, Missouri. I atteneded Lee's Summit West Highschool. I 
 I hope to do front-end development after I graduate, but I am not picky. I feel I have enough skills to where I could branch out if need be.
 ## Links
 [LinkedIn](https://www.linkedin.com/in/carolinefinnerty/)
+
 [My Personal Portfolio/Resume Page](https://s529428.github.io/portfolio/)
